@@ -1,0 +1,19 @@
+Foreign
+MakeHeap
+Insert 37
+Insert -3
+Insert 1000
+ExtractMin
+ExtractMin
+Minimum
+MakeHeap
+Insert 7
+MakeHeap
+Insert 15
+Insert 12
+Minimum
+Union
+Minimum
+MakeHeap
+Minimum
+Union

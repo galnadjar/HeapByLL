@@ -1,0 +1,25 @@
+Sorted
+MakeHeap
+Insert 12
+Insert 8
+Insert 10
+Insert 9
+ExtractMin
+MakeHeap
+Insert 12
+Insert 15
+Insert 13
+Minimum
+Union
+Minimum
+MakeHeap
+Insert 2
+Insert 3
+ExtractMin
+Minimum
+Union
+Minimum
+MakeHeap
+Minimum
+Union
+Minimum

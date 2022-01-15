@@ -1,0 +1,18 @@
+UnSorted
+MakeHeap
+Insert 3
+Insert 8
+ExtractMin
+Minimum
+ExtractMin
+Insert 4
+MakeHeap
+Insert 20
+Insert 33
+Insert 55
+ExtractMin
+Union
+Minimum
+MakeHeap
+Minimum
+Union
